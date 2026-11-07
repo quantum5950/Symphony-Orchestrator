@@ -8,6 +8,8 @@
 
 ---
 
+| Field | Details |
+| :--- | :--- |
 | **Lead Architect** | Arrash Sean Kavakebi |
 | :--- | :--- |
 | **License** | [Apache 2.0](LICENSE) |
