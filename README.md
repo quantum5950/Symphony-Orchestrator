@@ -1,5 +1,7 @@
 # Symphony — An Open Proposal to Every AI Lab on Earth
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 > Twenty brains, ten countries, one mind. Nobody left out.
 
 **Symphony** is an orchestration and consensus architecture that unites frontier models as specialized sections of a single, coordinated mind. No single model is asked to be everything. Each model does what it does best — and a conductor routes every task to the right mind, the way the two halves of a human brain serve one person.
@@ -61,4 +63,4 @@ Arrash Sean Kavakebi, creator of Symphony — jokerswildkavakebi@gmail.com. Labs
 
 ## License
 
-To be chosen.
+Licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full text.
