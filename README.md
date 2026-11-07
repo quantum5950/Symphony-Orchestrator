@@ -12,7 +12,7 @@ The world's AI labs are building brilliant minds in isolation — a fractured ar
 
 ## How it works
 
-```
+```text
 Task arrives
     |
     v
@@ -53,11 +53,11 @@ Bring the world together as one. Build a system that makes proven systems that w
 
 ## The full proposal
 
-The complete letter to every AI lab on Earth is in [`symphony-proposal-letter-v2.md`](symphony-proposal-letter-v2.md).
+The complete letter to every AI lab on Earth is in [symphony-proposal-letter-v2.md](./symphony-proposal-letter-v2.md).
 
 ## Contact
 
-Arrash Sean Kavakebi, creator of Symphony.
+Arrash Sean Kavakebi, creator of Symphony — jokerswildkavakebi@gmail.com. Labs and builders can also open an issue here to start a conversation.
 
 ## License
 
